@@ -1,0 +1,176 @@
+{
+    "content": [
+        {
+            "ordem": 1,
+            "produto": {
+                "codigo": 1384407,
+                "nome": "CLARISCAN",
+                "numeroRegistro": "183960004",
+                "tipo": {
+                    "codigo": 1,
+                    "descricao": null
+                },
+                "categoria": null,
+                "situacaoRotulo": null,
+                "dataVencimento": null,
+                "mesAnoVencimento": "042032",
+                "dataVencimentoRegistro": "2032-04-01T00:00:00.000-0300",
+                "principioAtivo": "ÁCIDO GADOTÉRICO",
+                "situacaoApresentacao": "Válido",
+                "dataRegistro": "2022-04-18T00:00:00.000-0300",
+                "categoriaRegulatoria": {
+                    "codigo": 6,
+                    "descricao": "Novo"
+                },
+                "medicamentoReferencia": null,
+                "categoriaProduto": null,
+                "tipoAutorizacao": "REGISTRADO",
+                "numeroRegistroFormatado": "183960004",
+                "mesAnoVencimentoFormatado": "04/2032",
+                "acancelar": false
+            },
+            "empresa": {
+                "cnpj": "00029372000140",
+                "razaoSocial": "GE HEALTHCARE DO BRASIL COMÉRCIO E SERVIÇOS PARA EQUIPAMENTOS MEDICO-HOSPITALARES LTDA",
+                "numeroAutorizacao": "1083968",
+                "cnpjFormatado": "00.029.372/0001-40"
+            },
+            "processo": {
+                "numero": "25351042308202025",
+                "situacao": 29,
+                "numeroProcessoFormatado": "25351.042308/2020-25"
+            }
+        },
+        {
+            "ordem": 2,
+            "produto": {
+                "codigo": 793346,
+                "nome": "OMNIPAQUE",
+                "numeroRegistro": "183960001",
+                "tipo": {
+                    "codigo": 1,
+                    "descricao": null
+                },
+                "categoria": null,
+                "situacaoRotulo": null,
+                "dataVencimento": "2026-12-10T00:00:00.000-0300",
+                "mesAnoVencimento": "122026",
+                "dataVencimentoRegistro": "2026-12-01T00:00:00.000-0300",
+                "principioAtivo": "IOEXOL",
+                "situacaoApresentacao": "Válido",
+                "dataRegistro": "2011-12-05T00:00:00.000-0300",
+                "categoriaRegulatoria": {
+                    "codigo": 6,
+                    "descricao": "Novo"
+                },
+                "medicamentoReferencia": null,
+                "categoriaProduto": null,
+                "tipoAutorizacao": "REGISTRADO",
+                "numeroRegistroFormatado": "183960001",
+                "mesAnoVencimentoFormatado": "12/2026",
+                "acancelar": false
+            },
+            "empresa": {
+                "cnpj": "00029372000140",
+                "razaoSocial": "GE HEALTHCARE DO BRASIL COMÉRCIO E SERVIÇOS PARA EQUIPAMENTOS MEDICO-HOSPITALARES LTDA",
+                "numeroAutorizacao": "1083968",
+                "cnpjFormatado": "00.029.372/0001-40"
+            },
+            "processo": {
+                "numero": "25351633483201030",
+                "situacao": 29,
+                "numeroProcessoFormatado": "25351.633483/2010-30"
+            }
+        },
+        {
+            "ordem": 3,
+            "produto": {
+                "codigo": 855495,
+                "nome": "OMNISCAN",
+                "numeroRegistro": "183960003",
+                "tipo": {
+                    "codigo": 1,
+                    "descricao": null
+                },
+                "categoria": null,
+                "situacaoRotulo": null,
+                "dataVencimento": null,
+                "mesAnoVencimento": "122027",
+                "dataVencimentoRegistro": "2027-12-01T00:00:00.000-0300",
+                "principioAtivo": "GADODIAMIDA",
+                "situacaoApresentacao": "Válido",
+                "dataRegistro": "2012-12-17T00:00:00.000-0300",
+                "categoriaRegulatoria": {
+                    "codigo": 6,
+                    "descricao": "Novo"
+                },
+                "medicamentoReferencia": null,
+                "categoriaProduto": null,
+                "tipoAutorizacao": "REGISTRADO",
+                "numeroRegistroFormatado": "183960003",
+                "mesAnoVencimentoFormatado": "12/2027",
+                "acancelar": false
+            },
+            "empresa": {
+                "cnpj": "00029372000140",
+                "razaoSocial": "GE HEALTHCARE DO BRASIL COMÉRCIO E SERVIÇOS PARA EQUIPAMENTOS MEDICO-HOSPITALARES LTDA",
+                "numeroAutorizacao": "1083968",
+                "cnpjFormatado": "00.029.372/0001-40"
+            },
+            "processo": {
+                "numero": "25351635153201055",
+                "situacao": 29,
+                "numeroProcessoFormatado": "25351.635153/2010-55"
+            }
+        },
+        {
+            "ordem": 4,
+            "produto": {
+                "codigo": 764581,
+                "nome": "VISIPAQUE",
+                "numeroRegistro": "183960002",
+                "tipo": {
+                    "codigo": 1,
+                    "descricao": null
+                },
+                "categoria": null,
+                "situacaoRotulo": null,
+                "dataVencimento": null,
+                "mesAnoVencimento": "062027",
+                "dataVencimentoRegistro": "2027-06-01T00:00:00.000-0300",
+                "principioAtivo": "IODIXANOL",
+                "situacaoApresentacao": "Válido",
+                "dataRegistro": "2012-06-25T00:00:00.000-0300",
+                "categoriaRegulatoria": {
+                    "codigo": 6,
+                    "descricao": "Novo"
+                },
+                "medicamentoReferencia": null,
+                "categoriaProduto": null,
+                "tipoAutorizacao": "REGISTRADO",
+                "numeroRegistroFormatado": "183960002",
+                "mesAnoVencimentoFormatado": "06/2027",
+                "acancelar": false
+            },
+            "empresa": {
+                "cnpj": "00029372000140",
+                "razaoSocial": "GE HEALTHCARE DO BRASIL COMÉRCIO E SERVIÇOS PARA EQUIPAMENTOS MEDICO-HOSPITALARES LTDA",
+                "numeroAutorizacao": "1083968",
+                "cnpjFormatado": "00.029.372/0001-40"
+            },
+            "processo": {
+                "numero": "25351633492201022",
+                "situacao": 29,
+                "numeroProcessoFormatado": "25351.633492/2010-22"
+            }
+        }
+    ],
+    "totalElements": 4,
+    "totalPages": 1,
+    "last": true,
+    "numberOfElements": 4,
+    "first": true,
+    "sort": null,
+    "size": 1000,
+    "number": 0
+}
